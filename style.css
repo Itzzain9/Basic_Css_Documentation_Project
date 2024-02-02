@@ -15,4 +15,13 @@ nav#navbar {
 	position: fixed;
 }
 
+nav#navbar a {
+	display: block;
+	border: 1px solid black;
+	padding: 5px;
+	margin: 10px 0;
+	text-decoration: none;
+	color: black;
+}
+
 
