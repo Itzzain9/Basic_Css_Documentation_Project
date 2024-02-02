@@ -24,4 +24,8 @@ nav#navbar a {
 	color: black;
 }
 
+main#main-doc {
+	grid-area: mainContent;
+}
+
 
