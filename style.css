@@ -33,4 +33,9 @@ header {
 	font-weight: bold;
 }
 
+code {
+	background-color: #CCC;
+	display: block;
+	padding: 20px;
+};
 
